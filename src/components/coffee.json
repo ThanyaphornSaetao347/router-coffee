@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name":"ท่าช้าง", 
+        "img":"https://p-u.popcdn.net/event_details/posters/000/008/856/original/cfe1b94d03c5137faf1500f98117421e9f2ac9db.jpg?1590662796",
+        "readmore": "กดดูรายละเอียดเพิ่มเติม"
+    },
+    {
+        "id": 2,
+        "name":"GoodView",
+        "img":"https://img.wongnai.com/p/1920x0/2019/07/06/c9743723492c4049869c55f2b003d5ef.jpg",
+        "readmore": "กดดูรายละเอียดเพิ่มเติม"
+    },
+    {
+        "id": 3,
+        "name":"RiverSide" , 
+        "img":"https://th.bing.com/th/id/R.ab9802205edc889cdc62f84af245316c?rik=EUFmNFFfO91eJA&riu=http%3a%2f%2fwww.dooasia.com%2fwp-content%2fuploads%2f2018%2f05%2fThe-RiverSide-%e0%b9%80%e0%b8%8a%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-7-696x464.jpg&ehk=IfTrEAF8BEuE9hJhtMKHQNYZmV%2boSJEesY%2fzQmFNYoo%3d&risl=&pid=ImgRaw&r=0",
+        "readmore": "กดดูรายละเอียดเพิ่มเติม"
+    },
+    {
+        "id": 4,
+        "name":"WarmUp",
+        "img":"https://d136usn7jnoe61.cloudfront.net/pictures/21526/s2n_0002_p1d06tc4oou8jlkvr0l1mag1grj6.jpg",
+        "readmore": "กดดูรายละเอียดเพิ่มเติม"
+    },
+    {
+        "id": 5,
+        "name":"ตะวันแดง", 
+        "img":"https://th.bing.com/th/id/R.6fd3de7109e6a325c0d72efb53de2050?rik=Aa1zQxZXAWtxSg&riu=http%3a%2f%2ftawandang.com%2fwp-content%2fuploads%2f2017%2f08%2fTWDjang-Chaeng-Wattana.jpg&ehk=WHcn32JlAx8ZTvDdAHwMb81EWoU%2fiVLDtNNd6K%2bP6Ao%3d&risl=&pid=ImgRaw&r=0",
+        "readmore": "กดดูรายละเอียดเพิ่มเติม"
+    },
+    {
+        "id": 6,
+        "name": "Porjai Bar",
+        "img":"https://www.tripgether.com/wp-content/uploads/2022/10/PorJaiBar45.jpg",
+        "readmore": "กดดูรายละเอียดเพิ่มเติม"
+    }
+]
